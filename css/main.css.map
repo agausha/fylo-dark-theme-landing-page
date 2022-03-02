@@ -4,7 +4,7 @@
     "sources": [
         "../sass/main.scss",
         "../sass/_base.scss",
-        "../sass/_component.scss"
+        "../sass/_layout.scss"
     ],
     "names": [],
     "file": "main.css"
