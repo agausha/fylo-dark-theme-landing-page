@@ -17,3 +17,15 @@ $color-accent-light-red-err: hsl(0, 100%, 63%);
 // NEUTRAL COLORS
 
 $color-neutral-white: hsl(0, 0%, 100%);
+
+/////////////////////////////////////////
+// CSS RESET
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+//   box-sizing: inherit;
+//   border: 0;
+}
