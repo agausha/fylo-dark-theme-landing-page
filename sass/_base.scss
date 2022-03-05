@@ -48,4 +48,8 @@ html {
     scroll-behavior: smooth;
     line-height: 1.4;
     background: $color-primary-bark-blue-main-bg;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
