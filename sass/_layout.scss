@@ -4,4 +4,8 @@
 .header {
     font-family: $font-display;
     font-weight: 700;
+
+    &__nav-link {
+        list-style: none;
+    }
 }
