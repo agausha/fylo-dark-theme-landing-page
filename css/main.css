@@ -32,4 +32,8 @@ body {
       -ms-flex-align: center;
           align-items: center;
 }
+
+.header {
+  font-family: "Raleway", sans-serif;
+}
 /*# sourceMappingURL=main.css.map */
