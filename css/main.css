@@ -41,4 +41,8 @@ body {
 .header__nav-link {
   list-style: none;
 }
+
+.header__nav-link a {
+  text-decoration: none;
+}
 /*# sourceMappingURL=main.css.map */
