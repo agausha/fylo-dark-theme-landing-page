@@ -14,7 +14,8 @@
     }
 
     &__nav-items {
-        
+        display: flex;
+        align-items: center;
     }
 
     &__nav-link {
