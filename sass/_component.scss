@@ -10,4 +10,9 @@
     min-height: 100vh;
     background: $color-primary-bark-blue url(/images/bg-curvy-desktop.svg) bottom no-repeat;
     background-size: 100% 27rem;
+
+    &__image {
+        width: 72.2rem;
+        height: 53rem ;
+    }
 }
