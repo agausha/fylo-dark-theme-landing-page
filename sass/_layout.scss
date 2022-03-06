@@ -20,6 +20,10 @@
 
     &__nav-link {
         list-style: none;
+
+          &:not(:last-child) {
+            padding-right: 5.6rem;
+        }
     }
 
     &__nav-link a {

@@ -56,6 +56,10 @@ body {
   list-style: none;
 }
 
+.header__nav-link:not(:last-child) {
+  padding-right: 5.6rem;
+}
+
 .header__nav-link a {
   text-decoration: none;
   color: white;
