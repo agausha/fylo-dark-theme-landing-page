@@ -58,8 +58,9 @@ body {
 }
 
 .intro__text {
-  width: 60.2rem;
+  width: 65.2rem;
   font-size: 2rem;
+  padding: 0 3rem;
 }
 
 .header {
