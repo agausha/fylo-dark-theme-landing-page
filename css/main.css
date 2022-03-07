@@ -75,6 +75,7 @@ body {
   border-radius: 5rem;
   background: -webkit-gradient(linear, left top, right top, from(#65e2d9), to(#339ecc));
   background: linear-gradient(to right, #65e2d9, #339ecc);
+  border: none;
 }
 
 .header {
