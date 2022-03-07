@@ -63,6 +63,10 @@ body {
   padding: 0 3rem;
 }
 
+.cta {
+  color: white;
+}
+
 .header {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
