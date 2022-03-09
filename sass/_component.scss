@@ -52,7 +52,9 @@
 // FEATURES SECTION
 
 .features {
-    width: 100%;
+    width: 67%;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
+    gap: 9rem 15rem;
+    text-align: center;
 }
