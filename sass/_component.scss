@@ -52,9 +52,11 @@
 // FEATURES SECTION
 
 .features {
-    width: 67%;
+    width: 100%;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 9rem 15rem;
     text-align: center;
+    margin: 13rem 0;
+    padding: 0 28rem;
 }
