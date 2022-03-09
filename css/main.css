@@ -78,6 +78,10 @@ body {
   border: none;
 }
 
+.features {
+  width: 100%;
+}
+
 .header {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
