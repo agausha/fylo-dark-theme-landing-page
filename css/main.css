@@ -105,6 +105,10 @@ body {
   padding: 0 10rem;
 }
 
+.productive__image {
+  height: 46rem;
+}
+
 .header {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
