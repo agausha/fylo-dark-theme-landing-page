@@ -79,5 +79,9 @@
         width: auto;
         margin-right: 4.5rem;
     }
+
+    &__detail :not(:last-child) {
+        margin-bottom: 2.5rem;
+    }
 }
 
