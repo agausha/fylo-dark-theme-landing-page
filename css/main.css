@@ -108,6 +108,7 @@ body {
 .productive__image {
   height: 46rem;
   width: auto;
+  margin-right: 4.5rem;
 }
 
 .header {
