@@ -93,5 +93,9 @@
         color: $color-accent-cyan-cta;
         border-bottom: 0.1rem solid $color-accent-cyan-cta;
     }
+
+    &__link img {
+        vertical-align: middle;
+    }
 }
 
