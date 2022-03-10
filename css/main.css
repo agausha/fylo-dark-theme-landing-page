@@ -119,6 +119,10 @@ body {
   font-size: 4rem;
 }
 
+.productive__link {
+  text-decoration: none;
+}
+
 .header {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
