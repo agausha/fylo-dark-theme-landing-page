@@ -88,9 +88,10 @@
         font-size: 4rem;
     }
 
-    &__link {
+    &__link { 
         text-decoration: none;
         color: $color-accent-cyan-cta;
+        border-bottom: 0.1rem solid $color-accent-cyan-cta;
     }
 }
 
