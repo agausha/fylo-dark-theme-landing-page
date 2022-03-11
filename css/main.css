@@ -205,4 +205,8 @@ body {
   display: -ms-flexbox;
   display: flex;
 }
+
+.card__photo {
+  border-radius: 50%;
+}
 /*# sourceMappingURL=main.css.map */

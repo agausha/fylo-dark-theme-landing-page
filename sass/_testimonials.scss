@@ -29,4 +29,10 @@
     &__user {
         display: flex;
     }
+
+    &__photo {
+      border-radius: 50%;
+    //   width: 5rem;
+    //   margin-right: 2rem;
+    }
 }
