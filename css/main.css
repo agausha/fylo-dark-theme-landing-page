@@ -212,4 +212,8 @@ body {
   height: 4rem;
   margin-right: 1.5rem;
 }
+
+.card__user-name {
+  font-size: 1.3rem;
+}
 /*# sourceMappingURL=main.css.map */
