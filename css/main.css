@@ -215,6 +215,7 @@ body {
 
 .card__user-name {
   font-size: 1.3rem;
+  margin-bottom: 0.2rem;
 }
 
 .card__user-position {
