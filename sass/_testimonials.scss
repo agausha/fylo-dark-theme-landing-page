@@ -13,4 +13,8 @@
     padding: 4.5rem 3rem;
     border-radius: 0.5rem;
     position: relative;
+
+    &:nth-child(1)::before {
+        content: url(/images/bg-quotes.png);
+    }
 }

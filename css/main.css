@@ -187,4 +187,8 @@ body {
   border-radius: 0.5rem;
   position: relative;
 }
+
+.card:nth-child(1)::before {
+  content: url(/images/bg-quotes.png);
+}
 /*# sourceMappingURL=main.css.map */
