@@ -199,4 +199,10 @@ body {
 .card__text {
   margin-bottom: 2.5rem;
 }
+
+.card__user {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
 /*# sourceMappingURL=main.css.map */
