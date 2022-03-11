@@ -191,5 +191,6 @@ body {
 .card:nth-child(1)::before {
   content: url(/images/bg-quotes.png);
   position: absolute;
+  top: 0;
 }
 /*# sourceMappingURL=main.css.map */
