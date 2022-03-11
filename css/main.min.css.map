@@ -5,7 +5,8 @@
         "../sass/main.scss",
         "../sass/_base.scss",
         "../sass/_component.scss",
-        "../sass/_layout.scss"
+        "../sass/_layout.scss",
+        "../sass/_testimonials.scss"
     ],
     "names": [],
     "file": "main.min.css"
