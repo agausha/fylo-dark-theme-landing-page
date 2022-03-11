@@ -178,5 +178,6 @@ body {
   -ms-grid-columns: (1fr)[3];
       grid-template-columns: repeat(3, 1fr);
   gap: 4rem;
+  padding: 17rem;
 }
 /*# sourceMappingURL=main.css.map */
