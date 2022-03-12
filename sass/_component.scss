@@ -126,6 +126,10 @@
         margin-bottom: 1.5rem;
     }
 
+    &__form {
+        display: flex;
+    }
+
     input[type="email"] {
         width: 48rem;
         height: 5rem;

@@ -164,6 +164,12 @@ body {
   margin-bottom: 1.5rem;
 }
 
+.sign-up__form {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
 .sign-up input[type="email"] {
   width: 48rem;
   height: 5rem;
