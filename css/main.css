@@ -197,6 +197,22 @@ body {
   margin-right: 2rem;
 }
 
+.sign-up input[type="email"]::-webkit-input-placeholder {
+  opacity: 0.5;
+}
+
+.sign-up input[type="email"]:-ms-input-placeholder {
+  opacity: 0.5;
+}
+
+.sign-up input[type="email"]::-ms-input-placeholder {
+  opacity: 0.5;
+}
+
+.sign-up input[type="email"]::placeholder {
+  opacity: 0.5;
+}
+
 .sign-up input[type="submit"] {
   color: white;
   cursor: pointer;
