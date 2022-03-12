@@ -148,6 +148,7 @@ body {
   border-radius: 0.5rem;
   background: #1c2431;
   position: absolute;
+  left: 50%;
 }
 
 .footer {
