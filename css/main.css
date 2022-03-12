@@ -184,6 +184,7 @@ body {
 
 .sign-up input[type="submit"] {
   color: white;
+  cursor: pointer;
 }
 
 .footer {
