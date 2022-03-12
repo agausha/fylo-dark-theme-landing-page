@@ -37,11 +37,11 @@
 .cta {
     color: $color-neutral-white;
     text-decoration: none;
-    width: 28.8rem;
+    width: 28rem;
     font-size: 1.7rem;
     font-family: $font-display;
     font-weight: 700;
-    padding: 1.8rem 0;
+    padding: 1.6rem 0;
     margin: 3rem 0;
     border-radius: 5rem;
     background: linear-gradient(to right, ($color-accent-cyan-cta), $color-accent-blue-cta);
@@ -144,6 +144,7 @@
     input[type="submit"] {
         color: $color-neutral-white;
         cursor: pointer;
+        margin: 0;
     }
 }
 
