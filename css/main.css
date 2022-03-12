@@ -167,6 +167,7 @@ body {
 .sign-up input[type="email"] {
   width: 48rem;
   height: 5rem;
+  outline: none;
 }
 
 .footer {
