@@ -176,6 +176,8 @@ body {
   color: white;
   text-decoration: none;
   width: 20rem;
+  font-size: 1.5rem;
+  font-family: "Raleway", sans-serif;
 }
 
 .sign-up input[type="email"] {
