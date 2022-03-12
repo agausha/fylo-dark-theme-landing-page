@@ -182,6 +182,10 @@ body {
   margin-right: 2rem;
 }
 
+.sign-up input[type="submit"] {
+  color: white;
+}
+
 .footer {
   background: #0b1523;
 }

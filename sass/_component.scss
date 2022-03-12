@@ -140,5 +140,9 @@
         border-radius: 5rem;
         margin-right: 2rem;
     }
+
+    input[type="submit"] {
+        color: $color-neutral-white;
+    }
 }
 
