@@ -154,6 +154,10 @@ body {
   bottom: -30rem;
 }
 
+.sign-up__title {
+  font-size: 3rem;
+}
+
 .footer {
   background: #0b1523;
 }

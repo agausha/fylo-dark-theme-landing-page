@@ -115,5 +115,9 @@
     left: 50%;
     transform: translateX(-50%);
     bottom: -30rem;
+
+    &__title {
+        font-size: 3rem;
+    }
 }
 
