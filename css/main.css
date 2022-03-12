@@ -172,6 +172,10 @@ body {
       align-content: center;
 }
 
+.sign-up__cta {
+  color: white;
+}
+
 .sign-up input[type="email"] {
   width: 48rem;
   height: 5rem;
