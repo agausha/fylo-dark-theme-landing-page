@@ -159,6 +159,10 @@ body {
   margin-bottom: 2.5rem;
 }
 
+.sign-up__text {
+  text-align: center;
+}
+
 .footer {
   background: #0b1523;
 }
