@@ -162,6 +162,7 @@ body {
 .sign-up__text {
   text-align: center;
   margin-bottom: 1.5rem;
+  width: 90%;
 }
 
 .sign-up__form {
