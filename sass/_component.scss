@@ -148,6 +148,10 @@
         border-radius: 5rem;
         background: linear-gradient(to right, ($color-accent-cyan-cta), $color-accent-blue-cta);
         border: none;
+
+        &:hover {
+            background: $color-accent-cyan-cta-hover;
+        }
     }
 
     input[type="email"] {

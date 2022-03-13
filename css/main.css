@@ -192,6 +192,10 @@ body {
   border: none;
 }
 
+.sign-up__cta:hover {
+  background: #8ccac7;
+}
+
 .sign-up input[type="email"] {
   width: 48rem;
   height: 5rem;
