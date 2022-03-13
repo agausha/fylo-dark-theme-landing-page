@@ -231,6 +231,8 @@ body {
 .footer {
   background: #0b1523;
   padding: 20rem 8rem 8rem 10rem;
+  display: -ms-grid;
+  display: grid;
 }
 
 .main {
