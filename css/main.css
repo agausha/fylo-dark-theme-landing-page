@@ -251,6 +251,8 @@ body {
 .footer__location {
   display: -ms-grid;
   display: grid;
+  -ms-grid-columns: 5% 95%;
+      grid-template-columns: 5% 95%;
 }
 
 .main {
