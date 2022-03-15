@@ -270,6 +270,7 @@ body {
 
 .footer__links a, .footer__additional-links a {
   color: white;
+  text-decoration: none;
 }
 
 .main {
