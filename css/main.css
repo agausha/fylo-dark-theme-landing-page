@@ -335,6 +335,7 @@ body {
       -ms-flex-align: center;
           align-items: center;
   font-family: "Raleway", sans-serif;
+  font-weight: 400;
   padding: 7.3rem 8rem;
   width: 100%;
   background: #1c2431;
