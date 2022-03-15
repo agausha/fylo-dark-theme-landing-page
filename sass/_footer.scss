@@ -59,6 +59,10 @@
         align-items: center;
         text-decoration: none;
         transition: all 0.3s;
+
+        &:hover {
+            color: $color-accent-cyan-cta-hover;
+          }
     }
     
 }
