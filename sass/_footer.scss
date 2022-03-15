@@ -13,4 +13,8 @@
         grid-column: 1 / span 6;
         margin-bottom: 3rem;
    }
+
+   &__location {
+     display: grid;
+ }
 }

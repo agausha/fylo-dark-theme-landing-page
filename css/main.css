@@ -248,6 +248,11 @@ body {
   margin-bottom: 3rem;
 }
 
+.footer__location {
+  display: -ms-grid;
+  display: grid;
+}
+
 .main {
   position: relative;
   margin-bottom: 20rem;
