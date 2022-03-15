@@ -12,14 +12,18 @@
     &__logo {
         grid-column: 1 / span 6;
         margin-bottom: 3rem;
-   }
+     }
 
-   &__location {
+    &__location {
      display: grid;
      grid-template-columns: 5% 95%;
- }
+    }
 
- &__text {
+    &__text {
     margin-left: 1.5rem;
-}
+    }
+
+    &__contact &__phone {
+        margin-bottom: 1.5rem;
+    }
 }
