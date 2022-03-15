@@ -273,6 +273,7 @@ body {
   text-decoration: none;
   display: -ms-grid;
   display: grid;
+  margin-bottom: 1.5rem;
 }
 
 .main {
