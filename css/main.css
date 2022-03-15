@@ -268,6 +268,10 @@ body {
   margin-right: 1.5rem;
 }
 
+.footer__links a, .footer__additional-links a {
+  color: white;
+}
+
 .main {
   position: relative;
   margin-bottom: 20rem;

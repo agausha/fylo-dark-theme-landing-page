@@ -30,5 +30,11 @@
     &__contact &__icon {
         vertical-align: middle;
         margin-right: 1.5rem;
-       }
+    }
+
+    
+    &__links a, &__additional-links a {
+        color: $color-neutral-white;
+    }
+    
 }
