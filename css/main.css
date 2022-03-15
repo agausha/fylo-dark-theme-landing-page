@@ -285,6 +285,10 @@ body {
   margin-left: 5rem;
 }
 
+.footer__social a {
+  font-size: 1.8rem;
+}
+
 .main {
   position: relative;
   margin-bottom: 20rem;
