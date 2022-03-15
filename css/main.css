@@ -263,6 +263,10 @@ body {
   margin-bottom: 1.5rem;
 }
 
+.footer__contact .footer__icon {
+  vertical-align: middle;
+}
+
 .main {
   position: relative;
   margin-bottom: 20rem;
