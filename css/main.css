@@ -233,6 +233,8 @@ body {
   padding: 20rem 8rem 8rem 10rem;
   display: -ms-grid;
   display: grid;
+  -ms-grid-columns: 4fr 3fr 1fr 1fr 2fr;
+      grid-template-columns: 4fr 3fr 1fr 1fr 2fr;
 }
 
 .main {

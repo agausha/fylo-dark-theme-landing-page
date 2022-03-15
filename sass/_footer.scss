@@ -5,4 +5,5 @@
     background: $color-primary-dark-blue-footer-bg;
     padding: 20rem 8rem 8rem 10rem;
     display: grid;
+    grid-template-columns: 4fr 3fr 1fr 1fr 2fr;
 }
