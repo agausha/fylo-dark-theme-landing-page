@@ -8,4 +8,8 @@
     grid-template-columns: 4fr 3fr 1fr 1fr 2fr;
     grid-template-rows: auto;
     column-gap: 5rem;
+
+    &__logo {
+        grid-column: 1 / span 6;
+   }
 }
