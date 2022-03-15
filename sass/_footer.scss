@@ -63,6 +63,10 @@
         &:hover {
             color: $color-accent-cyan-cta-hover;
           }
+
+        &:hover {
+            border-color: $color-accent-cyan-cta-hover;
+          }
     }
     
 }

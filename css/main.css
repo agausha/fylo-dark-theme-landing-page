@@ -310,6 +310,10 @@ body {
   color: #8ccac7;
 }
 
+.footer__social a:hover {
+  border-color: #8ccac7;
+}
+
 .main {
   position: relative;
   margin-bottom: 20rem;
