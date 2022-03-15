@@ -255,6 +255,10 @@ body {
       grid-template-columns: 5% 95%;
 }
 
+.footer__text {
+  margin-left: 1.5rem;
+}
+
 .main {
   position: relative;
   margin-bottom: 20rem;
