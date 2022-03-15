@@ -271,6 +271,8 @@ body {
 .footer__links a, .footer__additional-links a {
   color: white;
   text-decoration: none;
+  display: -ms-grid;
+  display: grid;
 }
 
 .main {
