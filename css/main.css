@@ -276,6 +276,11 @@ body {
   margin-bottom: 1.5rem;
 }
 
+.footer__social {
+  display: -ms-grid;
+  display: grid;
+}
+
 .main {
   position: relative;
   margin-bottom: 20rem;
