@@ -289,6 +289,7 @@ body {
   font-size: 1.8rem;
   color: white;
   border: 2px solid white;
+  border-radius: 50%;
 }
 
 .main {
