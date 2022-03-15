@@ -292,6 +292,9 @@ body {
   border-radius: 50%;
   width: 5rem;
   height: 5rem;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
 }
 
 .main {
