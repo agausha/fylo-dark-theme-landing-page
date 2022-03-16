@@ -35,6 +35,11 @@
           &:not(:last-child) {
             padding-right: 5.6rem;
         }
+
+        &:hover {
+            font-family: $font-display;
+        }
+        
     }
 
     &__nav-link a {
