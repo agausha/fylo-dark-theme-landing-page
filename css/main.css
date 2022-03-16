@@ -276,6 +276,10 @@ body {
   margin-bottom: 1.5rem;
 }
 
+.footer__links a:hover, .footer__additional-links a:hover {
+  font-family: "Raleway", sans-serif;
+}
+
 .footer__social {
   display: -ms-grid;
   display: grid;

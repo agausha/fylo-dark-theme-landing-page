@@ -38,6 +38,10 @@
         text-decoration: none;
         display: grid;
         margin-bottom: 1.5rem;
+
+        &:hover {
+            font-family: $font-display;
+        }
     }
 
     &__social {
