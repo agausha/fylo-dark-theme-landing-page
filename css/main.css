@@ -145,6 +145,8 @@ body {
 
 .productive__link:focus {
   outline: none;
+  -webkit-animation: pulsate 1s infinite;
+          animation: pulsate 1s infinite;
 }
 
 .productive__arrow {

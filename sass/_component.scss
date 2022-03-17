@@ -111,6 +111,7 @@
 
         &:focus {
             outline: none;
+            animation: pulsate 1s infinite;
         }
         
     }
