@@ -149,6 +149,20 @@ body {
           animation: pulsate 1s infinite;
 }
 
+@-webkit-keyframes pulsate {
+  0% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+}
+
+@keyframes pulsate {
+  0% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+}
+
 .productive__arrow {
   vertical-align: middle;
   margin-left: 0.3rem;
