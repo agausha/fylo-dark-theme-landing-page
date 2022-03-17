@@ -124,6 +124,7 @@ body {
 }
 
 .productive__link {
+  background-color: transparent;
   border: none;
   color: #65e2d9;
   border-bottom: 0.1rem solid #65e2d9;
