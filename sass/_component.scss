@@ -99,6 +99,7 @@
         padding-bottom: 0.5rem;
         color: $color-accent-cyan-cta;
         border-bottom: 0.1rem solid $color-accent-cyan-cta;
+        transition: all 0.2s;
 
         &:hover {
             color: $color-neutral-white;
