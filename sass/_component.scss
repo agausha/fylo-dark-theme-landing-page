@@ -121,6 +121,10 @@
             transform: scale(1);
             box-shadow: none;
         }
+
+        50% {
+            transform: scale(1.05);
+        }
     }
 
     &__arrow {
