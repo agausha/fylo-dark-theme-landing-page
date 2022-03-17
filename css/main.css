@@ -131,6 +131,7 @@ body {
 
 .productive__link:hover {
   color: white;
+  border-bottom: 0.1rem solid white;
 }
 
 .productive__link img {
