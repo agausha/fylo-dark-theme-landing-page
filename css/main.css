@@ -143,6 +143,10 @@ body {
   fill: white;
 }
 
+.productive__link:focus {
+  outline: none;
+}
+
 .productive__arrow {
   vertical-align: middle;
   margin-left: 0.3rem;

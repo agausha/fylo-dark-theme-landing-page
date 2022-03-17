@@ -108,6 +108,11 @@
                 fill: $color-neutral-white;
             }
         }
+
+        &:focus {
+            outline: none;
+        }
+        
     }
 
     &__arrow {
