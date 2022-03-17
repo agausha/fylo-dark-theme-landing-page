@@ -94,7 +94,7 @@ body {
   padding: 0 22.5rem;
 }
 
-.features__heading-1 {
+.features__heading {
   font-size: 2.2rem;
   margin: 2.5rem 0 1.2rem 0;
 }
@@ -127,6 +127,10 @@ body {
   text-decoration: none;
   color: #65e2d9;
   border-bottom: 0.1rem solid #65e2d9;
+}
+
+.productive__link:hover {
+  color: white;
 }
 
 .productive__link img {
