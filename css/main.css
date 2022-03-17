@@ -124,7 +124,7 @@ body {
 }
 
 .productive__link {
-  text-decoration: none;
+  border: none;
   color: #65e2d9;
   border-bottom: 0.1rem solid #65e2d9;
 }
