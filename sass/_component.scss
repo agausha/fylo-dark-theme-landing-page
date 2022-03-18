@@ -47,6 +47,10 @@
     background: linear-gradient(to right, ($color-accent-cyan-cta), $color-accent-blue-cta);
     border: none;
 
+    &__medium {
+        width: 20rem;
+    }
+
     &:hover {
         background: $color-accent-cyan-cta-hover;
     }
