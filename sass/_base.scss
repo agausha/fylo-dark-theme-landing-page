@@ -52,3 +52,14 @@ html {
     color: $color-neutral-white;
     background: $color-primary-dark-blue-main-bg;
   }
+
+  ///////////////////////////////////////////
+// MEDIA QUERIES
+
+/* Mobile 500px */
+
+@media only screen and (max-width: 500px) {
+  html {
+    font-size: 50%;
+  }
+}
