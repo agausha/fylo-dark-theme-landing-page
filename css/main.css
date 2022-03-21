@@ -393,6 +393,14 @@ body {
   border-color: #8ccac7;
 }
 
+@media only screen and (max-width: 1125px) {
+  .footer__social {
+    -ms-grid-column: 1;
+    -ms-grid-column-span: 6;
+    grid-column: 1 / span 6;
+  }
+}
+
 .main {
   position: relative;
   margin-bottom: 20rem;
