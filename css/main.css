@@ -398,6 +398,7 @@ body {
     -ms-grid-column: 1;
     -ms-grid-column-span: 6;
     grid-column: 1 / span 6;
+    margin-top: 3rem;
   }
 }
 
