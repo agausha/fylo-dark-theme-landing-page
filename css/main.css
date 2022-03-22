@@ -251,25 +251,6 @@ body {
       align-content: center;
 }
 
-.sign-up__cta {
-  color: white;
-  text-decoration: none;
-  width: 20rem;
-  font-size: 1.5rem;
-  font-family: "Raleway", sans-serif;
-  font-weight: 700;
-  padding: 1.6rem 0;
-  margin: 3rem 0;
-  border-radius: 5rem;
-  background: -webkit-gradient(linear, left top, right top, from(#65e2d9), to(#339ecc));
-  background: linear-gradient(to right, #65e2d9, #339ecc);
-  border: none;
-}
-
-.sign-up__cta:hover {
-  background: #8ccac7;
-}
-
 .sign-up input[type="email"] {
   width: 48rem;
   height: 5rem;
