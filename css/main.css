@@ -342,7 +342,6 @@ body {
   -ms-grid-columns: (1fr)[3];
       grid-template-columns: repeat(3, 1fr);
   gap: 1rem;
-  margin-left: 2rem;
 }
 
 .footer__social a {
