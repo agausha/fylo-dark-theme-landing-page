@@ -284,7 +284,7 @@ body {
 }
 
 /* PRODUCTIVE */
-@media only screen and (max-width: 980px) {
+@media only screen and (max-width: 1000px) {
   .productive {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
