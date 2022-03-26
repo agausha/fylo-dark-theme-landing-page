@@ -107,5 +107,9 @@
           grid-column: 3 / span 4;
           margin-left: 5rem;
       }
+
+      &__links {
+          grid-column: 1 / span 2;
+      }
     }
 }
