@@ -292,6 +292,9 @@ body {
             flex-direction: column;
     padding: 0 7rem;
   }
+  .productive__image {
+    height: 40rem;
+  }
 }
 
 .footer {

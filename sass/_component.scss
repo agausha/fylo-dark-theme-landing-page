@@ -205,5 +205,9 @@
     .productive {
         flex-direction: column;
         padding: 0 7rem;
+    
+        &__image {
+            height: 40rem;
+        }
     }
 }
