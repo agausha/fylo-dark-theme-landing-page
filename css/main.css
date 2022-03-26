@@ -563,4 +563,11 @@ body {
   font-size: 1.2rem;
   opacity: 0.8;
 }
+
+@media only screen and (max-width: 890px) {
+  .testimonial-cards {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
+}
 /*# sourceMappingURL=main.css.map */
