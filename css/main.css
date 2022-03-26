@@ -429,6 +429,7 @@ body {
     -ms-grid-column: 3;
     -ms-grid-column-span: 4;
     grid-column: 3 / span 4;
+    margin-left: 5rem;
   }
 }
 
