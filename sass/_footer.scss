@@ -96,3 +96,11 @@
         }
     }
 }
+
+@media only screen and (max-width: 935px) {
+    .footer {
+      &__location {
+          grid-column: 1 / span 2;
+      }
+    }
+}
