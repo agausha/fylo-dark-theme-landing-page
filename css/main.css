@@ -297,6 +297,12 @@ body {
   }
 }
 
+@media only screen and (max-width: 1090px) {
+  .productive__title {
+    font-size: 3rem;
+  }
+}
+
 .footer {
   background: #0b1523;
   padding: 20rem 3rem 8rem 7rem;
