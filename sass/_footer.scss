@@ -80,8 +80,8 @@
 
 @media only screen and (max-width: 1125px) {
     .footer {
-      &__contact, &_phone {
-         font-size: $fs-small;
+      &__contact, &__phone &__email {
+         font-size: $fs-small-01;
     }
 
     &__links {
