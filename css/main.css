@@ -294,6 +294,7 @@ body {
   }
   .productive__image {
     height: 40rem;
+    margin: 0 0 4rem 0;
   }
 }
 
