@@ -310,6 +310,13 @@ body {
   }
 }
 
+/* SIGN-UP */
+@media only screen and (max-width: 830px) {
+  .sign-up {
+    padding: 3.5rem;
+  }
+}
+
 .footer {
   background: #0b1523;
   padding: 20rem 3rem 8rem 7rem;
