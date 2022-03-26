@@ -196,3 +196,13 @@
     }
 }
 
+/////////////////////////////////////////
+// MEDIA QUERIES
+
+/* PRODUCTIVE */ 
+
+@media only screen and(max-width: 980px) {
+    .productive {
+        flex-direction: column;
+    }
+}

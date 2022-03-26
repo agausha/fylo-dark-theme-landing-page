@@ -283,6 +283,16 @@ body {
   margin: 0;
 }
 
+/* PRODUCTIVE */
+@media only screen and (max-width: 980px) {
+  .productive {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+}
+
 .footer {
   background: #0b1523;
   padding: 20rem 3rem 8rem 7rem;
