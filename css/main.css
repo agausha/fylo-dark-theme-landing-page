@@ -283,6 +283,13 @@ body {
   margin: 0;
 }
 
+/* FEATURES */
+@media only screen and (max-width: 1000px) {
+  .features {
+    padding: 4rem;
+  }
+}
+
 /* PRODUCTIVE */
 @media only screen and (max-width: 1000px) {
   .productive {
