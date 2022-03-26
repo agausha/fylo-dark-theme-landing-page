@@ -568,6 +568,7 @@ body {
   .testimonial-cards {
     -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
+    margin-top: 8rem;
   }
 }
 /*# sourceMappingURL=main.css.map */
