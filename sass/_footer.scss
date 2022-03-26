@@ -101,6 +101,7 @@
     .footer {
       &__location {
           grid-column: 1 / span 2;
+          margin-bottom: 3rem;
       }
 
       &__contact, &__icon {
@@ -111,6 +112,10 @@
       &__links {
           grid-column: 1 / span 2;
           grid-row: 3 / span 2;
+      }
+
+      &__additional-links {
+          grid-column: 2 / span 2;
       }
     }
 }

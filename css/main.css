@@ -424,6 +424,7 @@ body {
     -ms-grid-column: 1;
     -ms-grid-column-span: 2;
     grid-column: 1 / span 2;
+    margin-bottom: 3rem;
   }
   .footer__contact, .footer__icon {
     -ms-grid-column: 3;
@@ -438,6 +439,11 @@ body {
     -ms-grid-row: 3;
     -ms-grid-row-span: 2;
     grid-row: 3 / span 2;
+  }
+  .footer__additional-links {
+    -ms-grid-column: 2;
+    -ms-grid-column-span: 2;
+    grid-column: 2 / span 2;
   }
 }
 
