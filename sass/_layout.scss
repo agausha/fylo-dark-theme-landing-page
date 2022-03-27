@@ -62,5 +62,9 @@
         &__nav-link:not(:last-child) {
             padding-right: 2.5rem;
         }
+
+        &__logo {
+            width: 15rem;
+        }
     }
 }
