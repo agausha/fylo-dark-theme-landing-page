@@ -309,6 +309,13 @@ body {
   }
 }
 
+@media only screen and (max-width: 670px) {
+  .features {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
+}
+
 /* PRODUCTIVE */
 @media only screen and (max-width: 1000px) {
   .productive {
