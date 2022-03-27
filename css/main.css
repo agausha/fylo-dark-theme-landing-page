@@ -284,6 +284,12 @@ body {
 }
 
 /* INTRO */
+@media only screen and (max-width: 768px) {
+  .intro__heading {
+    font-size: 3rem;
+  }
+}
+
 @media only screen and (max-width: 800px) {
   .intro__image {
     width: 50rem;
