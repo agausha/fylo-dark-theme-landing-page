@@ -203,7 +203,9 @@
 
 @media only screen and(max-width: 800px) {
     .intro {
-        
+        &__image {
+            width: 50rem;
+        }
     }
 }
 

@@ -284,6 +284,12 @@ body {
 }
 
 /* FEATURES */
+@media only screen and (max-width: 800px) {
+  .intro__image {
+    width: 50rem;
+  }
+}
+
 /* FEATURES */
 @media only screen and (max-width: 1125px) {
   .features {
