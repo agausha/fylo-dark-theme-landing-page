@@ -242,10 +242,12 @@
 @media only screen and(max-width: 800px) {
     .sign-up {
         padding: 3.5rem 6rem;
+        bottom: -38rem;
 
         &__form {
             flex-direction: column;
         }
+
     }
 
     .cta {
