@@ -555,6 +555,11 @@ body {
         grid-template-columns: 1fr;
     padding: 28rem 2.7rem 4.2rem 3rem;
   }
+  .footer__location {
+    -ms-grid-column: 1;
+    -ms-grid-column-span: 6;
+    grid-column: 1 / span 6;
+  }
 }
 
 .main {

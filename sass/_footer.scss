@@ -160,7 +160,7 @@
        padding: 28rem 2.7rem 4.2rem 3rem; 
 
        &__location {
-           
+           grid-column: 1 / span 6;
        }
     }
 }
