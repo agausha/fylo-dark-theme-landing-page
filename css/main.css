@@ -598,6 +598,15 @@ body {
   color: white;
 }
 
+@media only screen and (max-width: 640px) {
+  .header__nav {
+    padding: 2.4rem 2rem;
+  }
+  .header__nav-link:not(:last-child) {
+    padding-right: 2.5rem;
+  }
+}
+
 .testimonial-cards {
   display: -ms-grid;
   display: grid;
