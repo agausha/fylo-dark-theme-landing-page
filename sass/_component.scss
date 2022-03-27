@@ -247,4 +247,10 @@
             flex-direction: column;
         }
     }
+
+    .cta {
+       &__medium {
+        width: 48rem;
+       }
+    }
 }

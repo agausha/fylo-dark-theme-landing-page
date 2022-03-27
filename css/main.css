@@ -328,6 +328,9 @@ body {
         -ms-flex-direction: column;
             flex-direction: column;
   }
+  .cta__medium {
+    width: 48rem;
+  }
 }
 
 .footer {
