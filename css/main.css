@@ -283,7 +283,7 @@ body {
   margin: 0;
 }
 
-/* FEATURES */
+/* INTRO */
 @media only screen and (max-width: 800px) {
   .intro__image {
     width: 50rem;

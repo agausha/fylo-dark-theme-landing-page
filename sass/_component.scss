@@ -199,7 +199,13 @@
 /////////////////////////////////////////
 // MEDIA QUERIES
 
-/* FEATURES */ 
+/* INTRO */ 
+
+@media only screen and(max-width: 768px) {
+    .intro {
+
+    }
+}
 
 @media only screen and(max-width: 800px) {
     .intro {
