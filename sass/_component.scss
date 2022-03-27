@@ -201,9 +201,6 @@
 
 /* INTRO */ 
 
-@media only screen and(max-width: 500px) {
-    
-}
 @media only screen and(max-width: 768px) {
     .intro {
         &__heading {
@@ -292,6 +289,12 @@
        &__medium {
         width: 48rem;
        }
+    }
+}
+
+@media only screen and(max-width: 500px) {
+    .sign-up {
+        
     }
 }
 
