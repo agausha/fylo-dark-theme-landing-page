@@ -125,3 +125,11 @@
       }
     }
 }
+
+@media only screen and (max-width: 875px) {
+    .footer {
+        &__additional-links {
+            margin-left: 10rem;
+        }
+    }
+}
