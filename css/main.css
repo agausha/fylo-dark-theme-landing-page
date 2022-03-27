@@ -291,6 +291,7 @@ body {
   }
   .intro__text {
     font-size: 1.5rem;
+    width: 65%;
   }
 }
 
