@@ -248,6 +248,9 @@
             flex-direction: column;
         }
 
+        input[type="email"], input[type="submit"] {  
+            margin: 0 0 3rem 0;
+         }
     }
 
     .cta {

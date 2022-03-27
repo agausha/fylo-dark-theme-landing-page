@@ -329,6 +329,9 @@ body {
         -ms-flex-direction: column;
             flex-direction: column;
   }
+  .sign-up input[type="email"], .sign-up input[type="submit"] {
+    margin: 0 0 3rem 0;
+  }
   .cta__medium {
     width: 48rem;
   }
