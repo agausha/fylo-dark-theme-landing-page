@@ -289,6 +289,9 @@ body {
     font-size: 3rem;
     width: 79%;
   }
+  .intro__text {
+    font-size: 1.5rem;
+  }
 }
 
 @media only screen and (max-width: 800px) {
