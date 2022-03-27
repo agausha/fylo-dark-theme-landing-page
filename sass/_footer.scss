@@ -158,5 +158,9 @@
     .footer {
        grid-template-columns: 1fr;
        padding: 28rem 2.7rem 4.2rem 3rem; 
+
+       &__location {
+           
+       }
     }
 }
