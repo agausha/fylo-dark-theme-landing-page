@@ -140,5 +140,10 @@
        &__contact, &__icon {
         margin-left: -0.1rem;
        }
+
+       &__additional-links {
+        grid-column: 3 / span 3;
+       }
+
     }
 }
