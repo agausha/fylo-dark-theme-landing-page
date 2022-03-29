@@ -554,12 +554,23 @@ body {
     -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
     padding: 28rem 2.7rem 4.2rem 3rem;
+    -webkit-column-gap: 0;
+            column-gap: 0;
+    row-gap: 2rem;
   }
   .footer__location {
     -ms-grid-column: 1;
     -ms-grid-column-span: 6;
     grid-column: 1 / span 6;
     width: 53%;
+  }
+  .footer__contact, .footer__icon {
+    -ms-grid-column: 1;
+    -ms-grid-column-span: 6;
+    grid-column: 1 / span 6;
+    -ms-grid-row: 3;
+    -ms-grid-row-span: 3;
+    grid-row: 3 / span 3;
   }
 }
 

@@ -158,10 +158,17 @@
     .footer {
        grid-template-columns: 1fr;
        padding: 28rem 2.7rem 4.2rem 3rem; 
+       column-gap: 0;
+       row-gap: 2rem;
 
        &__location {
            grid-column: 1 / span 6;
            width: 53%;
+       }
+       
+       &__contact, &__icon {
+           grid-column: 1 / span 6;
+           grid-row: 3 / span 3;
        }
     }
 }
