@@ -160,6 +160,10 @@
        padding: 28rem 2.7rem 4.2rem 3rem; 
        gap: 2rem;
 
+       grid-template-areas: 
+       ""
+       ;
+
        &__location {
            grid-column: 1 / span 6;
            width: 53%;
