@@ -554,9 +554,7 @@ body {
     -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
     padding: 28rem 2.7rem 4.2rem 3rem;
-    -webkit-column-gap: 0;
-            column-gap: 0;
-    row-gap: 2rem;
+    gap: 2rem;
   }
   .footer__location {
     -ms-grid-column: 1;
