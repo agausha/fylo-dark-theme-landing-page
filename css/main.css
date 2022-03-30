@@ -555,6 +555,8 @@ body {
     gap: 2rem;
   }
   .footer__content {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
         grid-template-areas: "logo" "location" "contact" "links" "additional-links" "social";
   }
   .footer__location {
