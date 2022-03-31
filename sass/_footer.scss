@@ -4,10 +4,13 @@
 .footer {
     background: $color-primary-dark-blue-footer-bg;
     padding: 20rem 3rem 8rem 7rem;
+
+    &__content {
     display: grid;
     grid-template-columns: 5fr 3fr 1fr 2fr 2fr;
     grid-template-rows: auto;
     column-gap: 5rem;
+    }
 
     &__logo {
         grid-column: 1 / span 6;

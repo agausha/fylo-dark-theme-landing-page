@@ -378,6 +378,9 @@ body {
 .footer {
   background: #0b1523;
   padding: 20rem 3rem 8rem 7rem;
+}
+
+.footer__content {
   display: -ms-grid;
   display: grid;
   -ms-grid-columns: 5fr 3fr 1fr 2fr 2fr;
