@@ -389,7 +389,7 @@ body {
       grid-template-rows: auto;
   -webkit-column-gap: 5rem;
           column-gap: 5rem;
-      grid-template-areas: "location" "contact";
+      grid-template-areas: "location" "contact" "links";
 }
 
 .footer__logo {
