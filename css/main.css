@@ -552,11 +552,11 @@ body {
 @media only screen and (max-width: 500px) {
   .footer {
     padding: 28rem 2.7rem 4.2rem 3rem;
-    gap: 2rem;
   }
   .footer__content {
     -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
+    gap: 2rem;
         grid-template-areas: "logo" "location" "contact" "links" "additional-links" "social";
   }
   .footer__location {
