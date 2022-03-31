@@ -389,7 +389,7 @@ body {
       grid-template-rows: auto;
   -webkit-column-gap: 5rem;
           column-gap: 5rem;
-      grid-template-areas: "";
+      grid-template-areas: "location";
 }
 
 .footer__logo {
