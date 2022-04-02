@@ -47,6 +47,10 @@
     &__links {
         grid-area: links;
     }
+
+    &__additional-links {
+        grid-area: additional-links;
+    }
     
     &__links a, &__additional-links a {
         color: $color-neutral-white;
