@@ -429,6 +429,12 @@ body {
   margin-right: 1.5rem;
 }
 
+.footer__links {
+  -ms-grid-row: 1;
+  -ms-grid-column: 3;
+  grid-area: links;
+}
+
 .footer__links a, .footer__additional-links a {
   color: white;
   text-decoration: none;
