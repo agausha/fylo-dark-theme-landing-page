@@ -587,7 +587,7 @@ body {
     -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
     gap: 2rem;
-        grid-template-areas: "logo" "location" "contact" "links" "additional-links" "social";
+        grid-template-areas: "location" "contact" "links" "additional-links" "social";
   }
   .footer__location {
     -ms-grid-column: 1;
