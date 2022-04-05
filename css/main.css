@@ -595,6 +595,9 @@ body {
   .footer__links {
     margin-top: 4rem;
   }
+  .footer__social {
+    margin: 0 auto;
+  }
 }
 
 .main {
