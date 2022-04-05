@@ -195,9 +195,8 @@
            width: 47%;
        }
        
-       &__contact, &__icon {
-           grid-column: 1 / span 6;
-           grid-row: 2 / span 2;
+       &__links {
+           margin-top: 4rem;
        }
     }
 }
