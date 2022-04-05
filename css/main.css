@@ -590,10 +590,7 @@ body {
         grid-template-areas: "location" "contact" "links" "additional-links" "social";
   }
   .footer__location {
-    -ms-grid-column: 1;
-    -ms-grid-column-span: 6;
-    grid-column: 1 / span 6;
-    width: 75%;
+    width: 47%;
   }
   .footer__contact, .footer__icon {
     -ms-grid-column: 1;
