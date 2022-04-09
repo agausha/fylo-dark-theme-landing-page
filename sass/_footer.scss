@@ -118,6 +118,14 @@
     }
 }
 
+@media only screen and (max-width: 1100px) {
+    .footer {
+   &__location, &__contact, &__links, &__additional-links {
+         font-size: $fs-small-01;
+        }
+    }
+}
+
 @media only screen and (max-width: 935px) {
     .footer {
       &__location {
