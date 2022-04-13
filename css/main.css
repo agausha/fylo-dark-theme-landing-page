@@ -509,6 +509,9 @@ body {
     -ms-grid-column: 1;
     -ms-grid-column-span: 3;
     grid-column: 1 / span 3;
+    -ms-grid-row: 3;
+    -ms-grid-row-span: 3;
+    grid-row: 3 / span 3;
     margin-top: 3rem;
     margin-left: 35rem;
   }
