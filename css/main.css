@@ -531,6 +531,11 @@ body {
   .footer__contact {
     margin-bottom: 2rem;
   }
+  .footer__contact, .footer__icon {
+    -ms-grid-column: 5;
+    -ms-grid-column-span: 6;
+    grid-column: 5 / span 6;
+  }
   .footer__additional-links {
     margin-left: 10rem;
   }
