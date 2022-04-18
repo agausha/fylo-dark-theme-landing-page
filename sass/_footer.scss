@@ -148,7 +148,7 @@
         }
 
         &__additional-links {
-            margin-left: 10rem;
+            grid-column: 5 / span 6;
         }
     }
 }

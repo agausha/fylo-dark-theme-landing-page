@@ -544,7 +544,9 @@ body {
     grid-row: 2 / 2;
   }
   .footer__additional-links {
-    margin-left: 10rem;
+    -ms-grid-column: 5;
+    -ms-grid-column-span: 6;
+    grid-column: 5 / span 6;
   }
 }
 
