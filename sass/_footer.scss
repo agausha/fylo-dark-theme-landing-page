@@ -126,6 +126,7 @@
     .footer {
         &__content {
             grid-template-columns: repeat(2, 1fr);
+            gap: 2rem;
         }
         &__additional-links {
             margin-left: 10rem;
