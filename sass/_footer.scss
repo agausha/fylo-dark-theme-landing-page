@@ -124,6 +124,9 @@
 
 @media only screen and (max-width: 768px) {
     .footer {
+        &__content {
+            
+        }
         &__additional-links {
             margin-left: 10rem;
         }
