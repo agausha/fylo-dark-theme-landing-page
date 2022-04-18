@@ -540,6 +540,8 @@ body {
     -ms-grid-column: 1;
     -ms-grid-column-span: 2;
     grid-column: 1 / span 2;
+    -ms-grid-row: 2;
+    grid-row: 2 / 2;
   }
   .footer__additional-links {
     margin-left: 10rem;
