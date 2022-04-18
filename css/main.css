@@ -526,6 +526,7 @@ body {
     -ms-grid-column: 1;
     -ms-grid-column-span: 4;
     grid-column: 1 / span 4;
+    width: 70%;
   }
   .footer__additional-links {
     margin-left: 10rem;
