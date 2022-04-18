@@ -556,6 +556,7 @@ body {
     grid-column: 1 / span 6;
     -ms-grid-row: 3;
     grid-row: 3 / 3;
+    margin-left: 17rem;
   }
 }
 
