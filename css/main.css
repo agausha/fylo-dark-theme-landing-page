@@ -522,6 +522,11 @@ body {
         grid-template-columns: repeat(2, 1fr);
     gap: 2rem;
   }
+  .footer__location {
+    -ms-grid-column: 1;
+    -ms-grid-column-span: 4;
+    grid-column: 1 / span 4;
+  }
   .footer__additional-links {
     margin-left: 10rem;
   }
