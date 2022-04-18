@@ -125,7 +125,7 @@
 @media only screen and (max-width: 768px) {
     .footer {
         &__content {
-            
+            grid-template-columns: repeat(2, 1fr);
         }
         &__additional-links {
             margin-left: 10rem;
