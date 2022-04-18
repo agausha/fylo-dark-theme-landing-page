@@ -492,27 +492,6 @@ body {
   border-color: #8ccac7;
 }
 
-@media only screen and (max-width: 1125px) {
-  .footer__contact, .footer__phone .footer__email {
-    font-size: 1.1rem;
-  }
-  .footer__links {
-    -ms-grid-column: 3;
-    -ms-grid-column-span: 2;
-    grid-column: 3 / span 2;
-  }
-  .footer__social {
-    -ms-grid-column: 1;
-    -ms-grid-column-span: 3;
-    grid-column: 1 / span 3;
-    -ms-grid-row: 3;
-    -ms-grid-row-span: 3;
-    grid-row: 3 / span 3;
-    margin-top: 3rem;
-    margin-left: 35rem;
-  }
-}
-
 @media only screen and (max-width: 1100px) {
   .footer__location, .footer__contact, .footer__links, .footer__additional-links {
     font-size: 1.1rem;

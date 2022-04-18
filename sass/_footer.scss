@@ -98,25 +98,6 @@
 /////////////////////////////////////////
 // MEDIA QUERIES
 
-@media only screen and (max-width: 1125px) {
-    .footer {
-        &__contact, &__phone &__email {
-         font-size: $fs-small-01;
-    }
-
-        &__links {
-        grid-column: 3 / span 2;
-    }
-
-        &__social {
-            grid-column: 1 / span 3;
-            grid-row: 3 / span 3;
-            margin-top: 3rem;
-            margin-left: 35rem;
-        }
-    }
-}
-
 @media only screen and (max-width: 1100px) {
     .footer {
    &__location, &__contact, &__links, &__additional-links {
