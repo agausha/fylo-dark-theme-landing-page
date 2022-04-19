@@ -392,9 +392,6 @@ body {
 }
 
 .footer__logo {
-  -ms-grid-column: 1;
-  -ms-grid-column-span: 6;
-  grid-column: 1 / span 6;
   margin-bottom: 3rem;
 }
 
