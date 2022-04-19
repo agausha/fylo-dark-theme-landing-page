@@ -487,8 +487,7 @@ body {
     -ms-grid-column-span: 4;
     grid-column: 1 / span 4;
     -ms-grid-row: 2;
-    -ms-grid-row-span: 2;
-    grid-row: 2 / span 2;
+    grid-row: 2 / 2;
     margin-top: 10rem;
     margin-left: 20rem;
   }
@@ -562,6 +561,8 @@ body {
     -ms-grid-column: 1;
     -ms-grid-column-span: 6;
     grid-column: 1 / span 6;
+    -ms-grid-row: 4;
+    grid-row: 4 / 4;
     margin-top: 4rem;
   }
   .footer__social {
