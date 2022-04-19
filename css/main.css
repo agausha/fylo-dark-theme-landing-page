@@ -434,7 +434,6 @@ body {
 }
 
 .footer__social {
-  grid-area: social;
   display: -ms-grid;
   display: grid;
   -ms-grid-columns: (1fr)[3];
