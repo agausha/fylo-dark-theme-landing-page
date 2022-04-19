@@ -145,26 +145,6 @@
     }
 }
 
-@media only screen and (max-width: 640px) {
-    .footer {
-
-       &__contact, &__icon {
-        margin-left: 5rem;
-       }
-
-       &__additional-links {
-        grid-column: 3 / span 3;
-       }
-
-       &__social {
-        grid-column: 1 / span 2;
-        grid-row: 5 / span 5;
-        margin-left: 20rem;
-       }
-       
-    }
-}
-
 @media only screen and (max-width: 600px) {
     .footer {
        padding: 28rem 2.7rem 4.2rem 3rem; 
