@@ -407,10 +407,6 @@ body {
   margin-left: 2rem;
 }
 
-.footer__contact {
-  grid-area: contact;
-}
-
 .footer__contact .footer__phone {
   margin-bottom: 1.5rem;
 }
