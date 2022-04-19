@@ -34,10 +34,6 @@
         vertical-align: middle;
         margin-right: 2rem;
     }
-
-    &__additional-links {
-        grid-area: additional-links;
-    }
     
     &__links a, &__additional-links a {
         color: $color-neutral-white;

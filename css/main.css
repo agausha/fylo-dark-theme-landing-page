@@ -416,10 +416,6 @@ body {
   margin-right: 2rem;
 }
 
-.footer__additional-links {
-  grid-area: additional-links;
-}
-
 .footer__links a, .footer__additional-links a {
   color: white;
   text-decoration: none;
