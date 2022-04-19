@@ -565,6 +565,11 @@ body {
     grid-row: 4 / 4;
     margin-top: 4rem;
   }
+  .footer__additional-links {
+    -ms-grid-column: 1;
+    -ms-grid-column-span: 6;
+    grid-column: 1 / span 6;
+  }
   .footer__social {
     margin: 0 auto;
   }
