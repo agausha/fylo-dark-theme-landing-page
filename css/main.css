@@ -389,7 +389,6 @@ body {
       grid-template-rows: auto;
   -webkit-column-gap: 5rem;
           column-gap: 5rem;
-      grid-template-areas: "location contact links additional-links social";
 }
 
 .footer__logo {
@@ -412,8 +411,6 @@ body {
 }
 
 .footer__contact {
-  -ms-grid-row: 1;
-  -ms-grid-column: 2;
   grid-area: contact;
 }
 
@@ -427,14 +424,10 @@ body {
 }
 
 .footer__links {
-  -ms-grid-row: 1;
-  -ms-grid-column: 3;
   grid-area: links;
 }
 
 .footer__additional-links {
-  -ms-grid-row: 1;
-  -ms-grid-column: 4;
   grid-area: additional-links;
 }
 
@@ -452,8 +445,6 @@ body {
 }
 
 .footer__social {
-  -ms-grid-row: 1;
-  -ms-grid-column: 5;
   grid-area: social;
   display: -ms-grid;
   display: grid;

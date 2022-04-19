@@ -10,9 +10,6 @@
     grid-template-columns: 4fr 3fr 1fr 2fr 2fr;
     grid-template-rows: auto;
     column-gap: 5rem;
-    grid-template-areas: 
-    "location contact links additional-links social"
-    ;
     }
 
     &__logo {
