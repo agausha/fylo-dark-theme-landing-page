@@ -548,6 +548,9 @@ body {
     gap: 2rem;
   }
   .footer__location {
+    -ms-grid-column: 1;
+    -ms-grid-column-span: 6;
+    grid-column: 1 / span 6;
     width: 47%;
   }
   .footer__links {
