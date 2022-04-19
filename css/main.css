@@ -419,6 +419,7 @@ body {
 .footer__links a, .footer__additional-links a {
   color: white;
   text-decoration: none;
+  font-family: "Raleway", sans-serif;
   display: -ms-grid;
   display: grid;
   margin-bottom: 1.5rem;
