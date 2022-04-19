@@ -553,6 +553,11 @@ body {
     grid-column: 1 / span 6;
     width: 50%;
   }
+  .footer__contact, .footer__icon {
+    -ms-grid-column: 1;
+    -ms-grid-column-span: 6;
+    grid-column: 1 / span 6;
+  }
   .footer__links {
     margin-top: 4rem;
   }
