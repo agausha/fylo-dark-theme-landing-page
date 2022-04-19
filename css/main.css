@@ -574,6 +574,9 @@ body {
     margin-top: 15rem;
   }
   .footer__social {
+    -ms-grid-column: 1;
+    -ms-grid-column-span: 6;
+    grid-column: 1 / span 6;
     margin: 0 auto;
   }
 }
