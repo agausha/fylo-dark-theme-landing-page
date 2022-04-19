@@ -416,10 +416,6 @@ body {
   margin-right: 2rem;
 }
 
-.footer__links {
-  grid-area: links;
-}
-
 .footer__additional-links {
   grid-area: additional-links;
 }
