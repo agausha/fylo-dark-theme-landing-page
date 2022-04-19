@@ -424,6 +424,8 @@ body {
   display: -ms-grid;
   display: grid;
   margin-bottom: 1.5rem;
+  -webkit-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
 }
 
 .footer__links a:hover, .footer__additional-links a:hover {

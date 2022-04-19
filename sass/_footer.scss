@@ -42,6 +42,7 @@
         font-weight: 400;
         display: grid;
         margin-bottom: 1.5rem;
+        transition: all 0.3s ease-in;
 
         &:hover {
             font-family: $font-display;
