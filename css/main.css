@@ -400,7 +400,7 @@ body {
   display: grid;
   -ms-grid-columns: 5% 95%;
       grid-template-columns: 5% 95%;
-  width: 85%;
+  width: 93%;
 }
 
 .footer__text {

@@ -11,5 +11,8 @@
       "savePath": "/css"
     }
   ],
-  "liveServer.settings.port": 5504
+  "liveServer.settings.port": 5504,
+  "editor.wordWrap": "on",
+  "editor.wordWrapColumn": 70,
+  "html.format.wrapLineLength": 120
 }
