@@ -559,6 +559,9 @@ body {
     grid-column: 1 / span 6;
   }
   .footer__links {
+    -ms-grid-column: 1;
+    -ms-grid-column-span: 6;
+    grid-column: 1 / span 6;
     margin-top: 4rem;
   }
   .footer__social {
