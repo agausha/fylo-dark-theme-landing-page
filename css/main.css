@@ -571,6 +571,7 @@ body {
     grid-column: 1 / span 6;
     -ms-grid-row: 5;
     grid-row: 5 / 5;
+    margin-top: 15rem;
   }
   .footer__social {
     margin: 0 auto;
