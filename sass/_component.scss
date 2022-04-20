@@ -271,7 +271,7 @@
     }
 }
 
-@media only screen and(max-width: 800px) {
+@media only screen and(max-width: $bp-medium) {
     .sign-up {
         padding: 3.5rem 6rem;
         bottom: -35rem;
