@@ -292,7 +292,7 @@
     }
 }
 
-@media only screen and(max-width: 640px) {
+@media only screen and(max-width: $bp-smaller) {
     .sign-up {
         padding: 2rem 4rem;
     }
