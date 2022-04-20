@@ -242,7 +242,7 @@
 
 /* PRODUCTIVE */ 
 
-@media only screen and(max-width: 1000px) {
+@media only screen and(max-width: $bp-large) {
     .productive {
         flex-direction: column;
         padding: 0 7rem;
