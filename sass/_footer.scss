@@ -107,7 +107,7 @@
     }
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: $bp-small) {
     .footer {
         &__content {
             grid-template-columns: repeat(2, 1fr);
