@@ -54,6 +54,7 @@
 @media only screen and(max-width: $bp-medium) {
     .testimonial-cards {
         grid-template-columns: 1fr;
+        font-size: $fs-xmedium;
         margin-top: 8rem;
     }
 }

@@ -705,6 +705,7 @@ body {
   .testimonial-cards {
     -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
+    font-size: 1.7rem;
     margin-top: 8rem;
   }
 }
