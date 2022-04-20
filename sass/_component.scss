@@ -215,7 +215,7 @@
     }
 }
 
-@media only screen and(max-width: 800px) {
+@media only screen and(max-width: $bp-medium-2) {
     .intro {
         &__image {
             width: 50rem;
