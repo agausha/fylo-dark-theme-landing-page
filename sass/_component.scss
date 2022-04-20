@@ -201,7 +201,7 @@
 
 /* INTRO */ 
 
-@media only screen and(max-width: 768px) {
+@media only screen and(max-width: $bp-small) {
     .intro {
         &__heading {
             font-size: $fs-xlarge;
