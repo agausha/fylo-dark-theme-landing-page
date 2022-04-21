@@ -53,10 +53,10 @@
 /////////////////////////////////////////
 // MEDIA QUERIES
 
-@media only screen and (max-width: $bp-small) {
+@media only screen and (max-width: $bp-smaller) {
     .header {
         &__nav {
-            padding: 2.4rem 2rem;
+            padding: 3rem 2.5rem;
         }
 
         &__nav-link:not(:last-child) {
