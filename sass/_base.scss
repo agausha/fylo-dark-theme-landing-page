@@ -90,7 +90,7 @@ html {
 
 /* Mobile 500px */
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: $bp-smallest-1) {
   html {
     font-size: 50%;
   }
