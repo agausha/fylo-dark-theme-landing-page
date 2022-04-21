@@ -396,6 +396,7 @@ body {
   }
   .sign-up input[type="email"], .sign-up input[type="submit"] {
     width: 35rem;
+    margin: 0 0 2.8rem 0;
   }
 }
 
