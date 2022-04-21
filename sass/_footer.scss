@@ -145,7 +145,7 @@
     }
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: $bp-smallest) {
     .footer {
        padding: 28rem 2.7rem 4.2rem 3rem; 
 
