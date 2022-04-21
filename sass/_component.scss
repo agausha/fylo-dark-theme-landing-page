@@ -301,10 +301,14 @@
     }
 }
 
-@media only screen and(max-width: $bp-smaller) {
+@media only screen and(max-width: $bp-small-1) {
     .sign-up {
-        padding: 2rem 4rem;
+        padding: 2rem 3rem;
     }
+}
+
+@media only screen and(max-width: $bp-smallest) {
+    
 }
 
 @media only screen and(max-width: $bp-smallest-1) {
