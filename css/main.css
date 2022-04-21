@@ -313,6 +313,7 @@ body {
   .features {
     -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
+    font-size: 1.8rem;
   }
 }
 
