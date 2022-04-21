@@ -53,7 +53,7 @@
 /////////////////////////////////////////
 // MEDIA QUERIES
 
-@media only screen and (max-width: 640px) {
+@media only screen and (max-width: $bp-small) {
     .header {
         &__nav {
             padding: 2.4rem 2rem;
