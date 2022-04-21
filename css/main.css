@@ -559,7 +559,7 @@ body {
     -ms-grid-column: 1;
     -ms-grid-column-span: 6;
     grid-column: 1 / span 6;
-    width: 55%;
+    width: 42%;
   }
   .footer__contact, .footer__icon {
     -ms-grid-column: 1;
