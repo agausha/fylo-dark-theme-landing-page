@@ -337,6 +337,12 @@ body {
   }
 }
 
+@media only screen and (max-width: 500px) {
+  .productive__image {
+    width: 43rem;
+  }
+}
+
 /* SIGN-UP */
 @media only screen and (max-width: 875px) {
   .sign-up {
