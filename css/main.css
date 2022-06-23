@@ -438,6 +438,9 @@ body {
     padding: 3rem 1.5rem;
     bottom: -42rem;
   }
+  .sign-up span {
+    bottom: 11.5rem;
+  }
 }
 
 .footer {
