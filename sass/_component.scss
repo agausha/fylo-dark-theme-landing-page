@@ -177,6 +177,8 @@
 
     .email {
         position: relative;
+
+        &__error {}
     }
 
     input[type="email"] {
