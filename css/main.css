@@ -612,6 +612,9 @@ body {
   .footer {
     padding: 28rem 2.7rem 4.2rem 3rem;
   }
+  .footer__location, .footer__contact, .footer__links, .footer__additional-links {
+    font-size: 1.5rem;
+  }
   .footer__content {
     -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
