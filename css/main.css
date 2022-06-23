@@ -261,6 +261,7 @@ body {
 
 .sign-up span {
   position: absolute;
+  bottom: 1.8rem;
 }
 
 .sign-up input[type="email"] {
