@@ -263,6 +263,7 @@ body {
   position: absolute;
   bottom: 1.8rem;
   left: 10rem;
+  color: #ff4242;
 }
 
 .sign-up input[type="email"] {
