@@ -259,6 +259,10 @@ body {
   display: block;
 }
 
+.sign-up span {
+  position: absolute;
+}
+
 .sign-up input[type="email"] {
   width: 48rem;
   height: 5rem;
