@@ -31,7 +31,7 @@ body {
   }
 }
 
-.intro {
+.hero {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -53,19 +53,19 @@ body {
   padding: 12.5rem 0;
 }
 
-.intro__image {
+.hero__image {
   width: 73.9rem;
   height: 53.3rem;
 }
 
-.intro__heading {
+.hero__heading {
   font-size: 4rem;
   font-family: "Raleway", sans-serif;
   width: 74.2rem;
   margin: 4.6rem;
 }
 
-.intro__text {
+.hero__text {
   width: 65.2rem;
   font-size: 2rem;
   padding: 0 3rem;
@@ -302,18 +302,21 @@ body {
 
 /* INTRO */
 @media only screen and (max-width: 768px) {
-  .intro__heading {
+  .hero {
+    padding: 2rem 0;
+  }
+  .hero__heading {
     font-size: 3rem;
     width: 80%;
   }
-  .intro__text {
+  .hero__text {
     font-size: 1.5rem;
     width: 80%;
   }
 }
 
 @media only screen and (max-width: 800px) {
-  .intro__image {
+  .hero__image {
     width: 35rem;
     height: 25rem;
   }

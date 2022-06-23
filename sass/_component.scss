@@ -1,7 +1,7 @@
 /////////////////////////////////////////
 // INTRO SECTION
 
-.intro {
+.hero {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -219,7 +219,9 @@
 /* INTRO */ 
 
 @media only screen and(max-width: $bp-small) {
-    .intro {
+    .hero {
+        padding: 2rem 0;
+
         &__heading {
             font-size: $fs-xlarge;
             width: 80%;
@@ -233,7 +235,7 @@
 }
 
 @media only screen and(max-width: $bp-medium-2) {
-    .intro {
+    .hero {
         &__image {
             width: 35rem;
             height: 25rem;
