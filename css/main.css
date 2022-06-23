@@ -273,7 +273,7 @@ body {
   outline: none;
   border: none;
   border-radius: 5rem;
-  margin-right: 2rem;
+  margin-right: 3rem;
 }
 
 .sign-up input[type="email"]::-webkit-input-placeholder {
