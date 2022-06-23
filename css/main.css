@@ -255,6 +255,10 @@ body {
   position: relative;
 }
 
+.sign-up .email__error {
+  display: block;
+}
+
 .sign-up input[type="email"] {
   width: 48rem;
   height: 5rem;
