@@ -175,7 +175,9 @@
         align-content: center;
     }
 
-    .email {}
+    .email {
+        position: relative;
+    }
 
     input[type="email"] {
         width: 48rem;

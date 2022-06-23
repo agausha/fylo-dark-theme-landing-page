@@ -251,6 +251,10 @@ body {
       align-content: center;
 }
 
+.sign-up .email {
+  position: relative;
+}
+
 .sign-up input[type="email"] {
   width: 48rem;
   height: 5rem;
