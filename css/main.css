@@ -424,6 +424,9 @@ body {
     padding: 4rem 2rem;
     bottom: -38rem;
   }
+  .sign-up span {
+    bottom: 12.5rem;
+  }
   .sign-up input[type="email"], .sign-up input[type="submit"] {
     width: 35rem;
     margin: 0 0 2.8rem 0;
