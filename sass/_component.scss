@@ -1,5 +1,5 @@
 /////////////////////////////////////////
-// INTRO SECTION
+// HERO SECTION
 
 .hero {
     display: flex;
@@ -216,7 +216,7 @@
 /////////////////////////////////////////
 // MEDIA QUERIES
 
-/* INTRO */ 
+/* HERO */ 
 
 @media only screen and(max-width: $bp-small) {
     .hero {
