@@ -9,7 +9,7 @@ form.addEventListener('submit', e => {
   const email = form.email.value;
 
   if (emailPattern.test(email)) {
-    feedback.textContent = 'Success';
+    feedback.textContent = '';
   } else {
     feedback.textContent = 'Please enter a valid email address.';
   }
