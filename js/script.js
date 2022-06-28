@@ -11,5 +11,7 @@ form.addEventListener('submit', e => {
 
   if (emailPattern.test(email)) {
     feedback.textContent = 'Success';
-  } else {}
+  } else {
+    feedback.textContent = 'Please enter a valid email address.';
+  }
 });
