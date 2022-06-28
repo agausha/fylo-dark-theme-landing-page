@@ -252,14 +252,6 @@ body {
       align-content: center;
 }
 
-.sign-up span {
-  position: absolute;
-  display: none;
-  bottom: 1.5rem;
-  left: 10rem;
-  color: #ff4242;
-}
-
 .sign-up input[type="email"] {
   width: 48rem;
   height: 5rem;

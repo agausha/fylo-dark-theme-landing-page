@@ -176,14 +176,6 @@
         align-content: center;
     }
 
-    span {
-        position: absolute;
-        display: none;
-        bottom: 1.5rem;
-        left: 10rem;
-        color: $color-accent-light-red-err;
-    }
-
     input[type="email"] {
         width: 48rem;
         height: 5rem;
