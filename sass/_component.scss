@@ -176,7 +176,9 @@
         align-content: center;
     }
 
-    .feedback {}
+    .feedback {
+        color: $color-accent-light-red-err;
+    }
 
     input[type="email"] {
         width: 48rem;
