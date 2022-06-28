@@ -256,6 +256,7 @@ body {
 .sign-up form div {
   position: absolute;
   bottom: -2.3rem;
+  left: 2.7rem;
 }
 
 .sign-up .feedback {
