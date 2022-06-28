@@ -376,7 +376,7 @@ body {
     padding: 4rem 0.5rem;
     bottom: -30rem;
   }
-  .sign-up span {
+  .sign-up form div {
     bottom: 1.5rem;
     left: 3rem;
   }
