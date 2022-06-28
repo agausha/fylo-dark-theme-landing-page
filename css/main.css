@@ -389,6 +389,9 @@ body {
         -ms-flex-direction: column;
             flex-direction: column;
   }
+  .sign-up form div {
+    bottom: 8.7rem;
+  }
   .sign-up input[type="email"], .sign-up input[type="submit"] {
     margin: 0 0 3rem 0;
   }

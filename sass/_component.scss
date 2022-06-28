@@ -317,7 +317,9 @@
             flex-direction: column;
         }
 
-        form div {}
+        form div {
+            bottom: 8.7rem;
+        }
 
         input[type="email"], input[type="submit"] {  
             margin: 0 0 3rem 0;
