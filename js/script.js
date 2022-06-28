@@ -6,4 +6,6 @@ form.addEventListener('submit', e => {
   e.preventDefault();
 
   const form = form.email.value;
+
+  if (emailPattern.test(email)) {}
 })
