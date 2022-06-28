@@ -10,6 +10,6 @@ form.addEventListener('submit', e => {
   const form = form.email.value;
 
   if (emailPattern.test(email)) {
-  
+    feedback.textContent = 'Success';
   }
 })
