@@ -365,10 +365,6 @@ body {
   .sign-up {
     padding: 5rem 3.5rem;
   }
-  .sign-up span {
-    bottom: 2.5rem;
-    left: 6rem;
-  }
 }
 
 @media only screen and (max-width: 875px) {
