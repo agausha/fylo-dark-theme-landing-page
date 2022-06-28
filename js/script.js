@@ -7,9 +7,9 @@ form.addEventListener('submit', e => {
   e.preventDefault();
 
   // Validation
-  const form = form.email.value;
+  const email = form.email.value;
 
   if (emailPattern.test(email)) {
     feedback.textContent = 'Success';
   } else {}
-})
+});
