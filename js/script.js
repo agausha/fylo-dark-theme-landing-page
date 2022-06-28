@@ -11,5 +11,5 @@ form.addEventListener('submit', e => {
 
   if (emailPattern.test(email)) {
     feedback.textContent = 'Success';
-  }
+  } else {}
 })
