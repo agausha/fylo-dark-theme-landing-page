@@ -177,7 +177,9 @@
         position: relative;
     }
 
-    form div {}
+    form div {
+        position: absolute;
+    }
 
     .feedback {
         color: $color-accent-light-red-err;

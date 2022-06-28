@@ -253,6 +253,10 @@ body {
   position: relative;
 }
 
+.sign-up form div {
+  position: absolute;
+}
+
 .sign-up .feedback {
   color: #ff4242;
 }
