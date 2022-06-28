@@ -1,0 +1,1 @@
+const form = document.querySelector('sign-up__form');
