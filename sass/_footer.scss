@@ -3,7 +3,6 @@
 
 .footer {
     background: $color-primary-dark-blue-footer-bg;
-    font-size: $fs-xmedium;
     padding: 20rem 3rem 8rem 7rem;
 
     &__content {
@@ -25,7 +24,6 @@
 
     &__text {
     margin-left: 2rem;
-    width: 98%;
     }
 
     &__contact &__phone {
@@ -151,40 +149,39 @@
     .footer {
        padding: 28rem 2.7rem 4.2rem 3rem; 
 
-       &__contact, &__links, &__additional-links {
-        font-size: $fs-medium;
-       }
+        &__contact, &__links, &__additional-links {
+            font-size: $fs-medium;
+        }
 
        &__content{ 
-       grid-template-columns: 1fr;
-       gap: 2rem;    
-    }
+            grid-template-columns: 1fr;
+            gap: 2rem;    
+        }
 
        &__location {
            grid-column: 1 / span 6;
            width: 55%;
-       }
+        }
        
        &__contact, &__icon {
-        grid-column: 1 / span 6;
-       }
+            grid-column: 1 / span 6;
+        }
 
        &__links {
            grid-column: 1 / span 6;
            grid-row: 4 / 4;
            margin-top: 4rem;
-       }
+        }
 
        &__additional-links {
-        grid-column: 1 / span 6;
-        grid-row: 5 / 5;
-    }
-
+           grid-column: 1 / span 6;
+           grid-row: 5 / 5;
+        }
 
        &__social {
-        grid-column: 1 / span 6;
-        grid-row: 6 / 6;
-        margin: 0 auto;
-       }
+           grid-column: 1 / span 6;
+           grid-row: 6 / 6;
+           margin: 0 auto;
+        }
     }
 }

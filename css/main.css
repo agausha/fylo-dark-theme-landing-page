@@ -454,7 +454,6 @@ body {
 
 .footer {
   background: #0b1523;
-  font-size: 1.7rem;
   padding: 20rem 3rem 8rem 7rem;
 }
 
@@ -483,7 +482,6 @@ body {
 
 .footer__text {
   margin-left: 2rem;
-  width: 98%;
 }
 
 .footer__contact .footer__phone {
