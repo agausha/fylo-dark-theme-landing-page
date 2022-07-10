@@ -234,7 +234,7 @@ body {
   left: 50%;
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
-  bottom: -30rem;
+  bottom: -33rem;
 }
 
 .sign-up__title {
