@@ -693,6 +693,7 @@ header .navbar__link:hover {
 }
 
 header .navbar__link a {
+  opacity: 0.8;
   text-decoration: none;
   color: white;
 }
