@@ -743,6 +743,7 @@ header .navbar__link a {
 
 .card__text {
   margin-bottom: 2.5rem;
+  font-size: 1.7rem;
 }
 
 .card__user {
