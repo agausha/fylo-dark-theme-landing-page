@@ -380,7 +380,12 @@
 
 @media only screen and(max-width: $bp-smallest-1) {
     .sign-up {
-       padding: 3rem 1.5rem; 
+       padding: 3rem 2.8rem; 
        bottom: -42rem;
+
+        &__text {
+            font-size: $fs-xmedium;
+            width: auto;
+        }
     }
 }

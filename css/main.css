@@ -443,8 +443,12 @@ body {
 
 @media only screen and (max-width: 500px) {
   .sign-up {
-    padding: 3rem 1.5rem;
+    padding: 3rem 2.8rem;
     bottom: -42rem;
+  }
+  .sign-up__text {
+    font-size: 1.7rem;
+    width: auto;
   }
 }
 
