@@ -708,13 +708,13 @@ header .navbar__link a {
 }
 
 @media only screen and (max-width: 640px) {
-  .header__nav {
+  header .navbar {
     padding: 3rem 2.5rem;
   }
-  .header__nav-link:not(:last-child) {
+  header__link:not(:last-child) {
     padding-right: 2.5rem;
   }
-  .header__logo {
+  header__logo {
     width: 15rem;
     height: 5rem;
   }
