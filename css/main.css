@@ -468,6 +468,7 @@ body {
 
 .footer__text {
   margin-left: 2rem;
+  width: 98%;
 }
 
 .footer__contact .footer__phone {
