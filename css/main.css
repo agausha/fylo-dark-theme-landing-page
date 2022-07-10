@@ -359,6 +359,9 @@ body {
 }
 
 @media only screen and (max-width: 500px) {
+  .productive {
+    padding: 0 3rem;
+  }
   .productive__image {
     width: 38rem;
     height: 30rem;
