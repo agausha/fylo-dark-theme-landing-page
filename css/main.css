@@ -245,7 +245,7 @@ body {
 .sign-up__text {
   font-size: 1.5rem;
   text-align: center;
-  margin-bottom: 1.5rem;
+  margin-bottom: 4rem;
   width: 90%;
 }
 
@@ -269,7 +269,7 @@ body {
 }
 
 .sign-up input[type="email"] {
-  width: 48rem;
+  width: 55rem;
   height: 5rem;
   padding: 2rem 3rem;
   outline: none;
