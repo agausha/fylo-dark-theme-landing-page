@@ -365,11 +365,15 @@
         form div {
             bottom: 8.5rem;
         }
+        
+        &__title {
+            font-size: $fs-large-2;
+        }
 
-    input[type="email"], input[type="submit"] {  
-        width: 35rem;
-        margin: 0 0 2.8rem 0;
-     }
+        input[type="email"], input[type="submit"] {  
+            width: 35rem;
+            margin: 0 0 2.8rem 0;
+        }
 
     }
 }
