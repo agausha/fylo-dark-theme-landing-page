@@ -736,6 +736,7 @@ header .navbar__link a {
 
 .card {
   background: #202a3c;
+  margin-bottom: 12rem;
   padding: 4.5rem 3rem;
   border-radius: 0.5rem;
   position: relative;
