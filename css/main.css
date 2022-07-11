@@ -140,6 +140,10 @@ body {
   width: 50%;
 }
 
+.productive__text {
+  width: 80%;
+}
+
 .productive__link {
   background-color: transparent;
   border: none;
