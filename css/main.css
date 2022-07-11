@@ -121,6 +121,7 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+  margin-bottom: 10rem;
   padding: 0 8rem;
 }
 
