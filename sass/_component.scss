@@ -84,7 +84,6 @@
 .productive {
     display: flex;
     align-items: center;
-    font-size: $fs-xmedium-1;
     padding: 0 12.5rem;
 
     &__image {
@@ -103,6 +102,7 @@
     }
 
     &__text {
+        font-size: $fs-medium;
         width: 80%;
     }
 
