@@ -101,10 +101,11 @@ body {
   -ms-grid-columns: (1fr)[2];
       grid-template-columns: repeat(2, 1fr);
   gap: 9rem 15rem;
+  font-size: 1.7rem;
   text-align: center;
   margin: auto;
   max-width: 1030px;
-  font-size: 1.7rem;
+  padding-inline: 0.5rem;
 }
 
 .features__heading {
