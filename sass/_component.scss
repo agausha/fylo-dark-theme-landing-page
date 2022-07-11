@@ -84,7 +84,7 @@
 .productive {
     display: flex;
     align-items: center;
-    padding: 0 12.5rem;
+    padding: 0 8rem;
 
     &__image {
         height: 45rem;
@@ -103,7 +103,7 @@
 
     &__text {
         font-size: $fs-medium;
-        width: 80%;
+        // width: 80%;
     }
 
     &__link { 
