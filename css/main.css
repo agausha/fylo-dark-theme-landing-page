@@ -740,6 +740,8 @@ header .navbar__link a {
   padding: 3.5rem 3rem;
   border-radius: 0.5rem;
   position: relative;
+  -webkit-box-shadow: 10px 10px 15px rgba(83, 198, 182, 0.04);
+          box-shadow: 10px 10px 15px rgba(83, 198, 182, 0.04);
 }
 
 .card:nth-child(1)::before {
