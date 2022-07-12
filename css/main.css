@@ -789,7 +789,7 @@ header .navbar__link a {
     font-size: 1.7rem;
     margin-top: 8rem;
   }
-  .card {
+  .card:not(:last-child) {
     margin-bottom: 0.5rem;
   }
   .card:nth-child(1)::before {
